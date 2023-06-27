@@ -1,3 +1,3 @@
 # Organisation theme
-This orgranisation is created for test purpose for presenting demo of harness CI/CD.
-Role of this orgranisation is a test organisation which can be cloned into harness as needed.
+This organization is created for test purposes for presenting a demo of harness CI/CD.
+The role of this organization is a test organisation that can be cloned into Harness as needed.
